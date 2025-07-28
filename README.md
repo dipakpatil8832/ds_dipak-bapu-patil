@@ -18,5 +18,7 @@ Analyze how trader actions (leverage, position size, side, profitability) respon
 ## ✅ Tools Used
 - Python, Pandas, Seaborn, Matplotlib
 - Google Colab
+## imp ***** add this file in csv_files folder
+historical_data.csv =  https://drive.google.com/file/d/1KxEn3y2Cq1b9UJkqSnX0jPslVQArzjhp/view?usp=sharing
 ##  link 
 [Open notebook in Google Colab] https://colab.research.google.com/drive/1B0zjhsOtS8EIHgmxRpjifp6hZro_dGT5?usp=sharing
